@@ -2,9 +2,9 @@
 
 module.exports = {
 	theme: {
-		slug: 'wprig',
-		name: 'WP Rig',
-		author: 'Morten Rand-Hendriksen'
+		slug: 'blockshop',
+		name: 'BlockShop',
+		author: 'Sidetrack Studio'
 	},
 	dev: {
 		browserSync: {
